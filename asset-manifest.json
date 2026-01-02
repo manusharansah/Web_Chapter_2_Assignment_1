@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web_Chapter_2_Assignment_1/static/css/main.1c1f88ed.css",
+    "main.js": "/Web_Chapter_2_Assignment_1/static/js/main.a97edf52.js",
+    "index.html": "/Web_Chapter_2_Assignment_1/index.html",
+    "main.1c1f88ed.css.map": "/Web_Chapter_2_Assignment_1/static/css/main.1c1f88ed.css.map",
+    "main.a97edf52.js.map": "/Web_Chapter_2_Assignment_1/static/js/main.a97edf52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1f88ed.css",
+    "static/js/main.a97edf52.js"
+  ]
+}
